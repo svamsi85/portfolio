@@ -15,7 +15,7 @@ function App() {
     <div className="main clearfix">
       
       <Helmet>
-                <title>Vihar's Personal Portfolio</title>
+                <title>Vamsi's Personal Portfolio</title>
                 <meta name="google-site-verification" content="EdyOg6R0c5fNtfswlQ4z1JajtKWvgRwEmkJstj_wXEg" />
                 <meta name="description" content="Vihar Devalla's Personal Portfolio" />
                 
